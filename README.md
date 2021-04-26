@@ -28,7 +28,7 @@ From *VS Code* you can open an *integrated terminal*: Menu **Terminal > New Term
 ### Full example
 
 ```bash
-$> git clone https://github.com/estsetubal-atad/CProgram_Template.git MyOwnCProgram
+$> git clone https://github.com/estsetubal-atad/Queue_Template.git MyOwnCProgram
 $> code MyOwnCProgram
 ```
 
