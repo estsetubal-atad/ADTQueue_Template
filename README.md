@@ -14,7 +14,7 @@ Check **full example** below. This just explains the steps.
 You can *clone* this repository with:
 
 ```bash
-$> git clone https://github.com/estsetubal-atad/Queue_Template.git <program-dir-name>
+$> git clone https://github.com/estsetubal-atad/ADTQueue_Template.git <program-dir-name>
 ```
 
 where `<program-dir-name>` is the new name of the directory that will be created containing the cloned code. You'll now need to open this directory in *VS Code* as your *working directory*. The easiest way is just to simply:
@@ -28,7 +28,7 @@ From *VS Code* you can open an *integrated terminal*: Menu **Terminal > New Term
 ### Full example
 
 ```bash
-$> git clone https://github.com/estsetubal-atad/Queue_Template.git MyOwnCProgram
+$> git clone https://github.com/estsetubal-atad/ADTQueue_Template.git MyQueueCProgram
 $> code MyOwnCProgram
 ```
 
